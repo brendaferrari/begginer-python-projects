@@ -9,3 +9,6 @@ madlib = f"Today I woke up {adj}. I really wanted to {noun1} more but my {noun2}
 really fast because I was late to work. After work I {verb1} because I love to {verb2} and then I watched {youtuber} before sleeping. "
 
 print(madlib)
+
+
+# // TODO: #1 make a random madlibs
